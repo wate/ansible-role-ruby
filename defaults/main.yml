@@ -1,2 +1,5 @@
 ---
-# defaults file for ruby
+ruby_packages:
+  - ruby
+  - ruby-devel
+  - rubygems
